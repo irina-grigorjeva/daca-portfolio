@@ -1,7 +1,7 @@
 # DACA Portfoolio -- [Irina Grigorjeva]
 
 ## Minust
-Liitusin DACA programmiga, sest soovin arendada oma oskusi andmeanalüütika valdkonnas ning liikuda samm‑sammult analüütiku karjääri suunas. Olen огиф töötanud aruandlusega ja andmetega Excelis ning näinud, kui oluline on osata andmeid süsteemselt analüüsida ja tõlgendada. Nüüd tahaks liikuda edasi järgmisele tasemele ja tõsta oma pädevust, et alustada karjääri andmeanalüütikuna.
+Liitusin DACA programmiga, sest soovin arendada oma oskusi andmeanalüütika valdkonnas ning liikuda samm‑sammult analüütiku karjääri suunas. Olen enne töötanud aruandlusega ja andmetega Excelis ning näinud, kui oluline on osata andmeid süsteemselt analüüsida ja tõlgendada. Nüüd tahaks liikuda edasi järgmisele tasemele ja tõsta oma pädevust, et alustada karjääri andmeanalüütikuna.
 
 ## Eesmärk
 Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
