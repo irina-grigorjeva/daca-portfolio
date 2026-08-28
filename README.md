@@ -20,7 +20,7 @@ GitHub: github.com/irina-grigorjeva
 
 Email: ira.grigorjeva@gmail.com
 
-LinkedIn: (https://www.linkedin.com/in/irina-grigorjeva/)
+LinkedIn: https://www.linkedin.com/in/irina-grigorjeva/
 ## 📌 Sissejuhatus
 
 Tere tulemast minu DACA portfoolio reposse! 
