@@ -79,10 +79,10 @@ SELECT  FROM products    WHERE category = 'Kleidid'    ORDER BY price DESC;
 <img width="1090" height="644" alt="image" src="https://github.com/user-attachments/assets/17fa5454-6548-4d8d-82d8-078357bec25e" />  
 </details
 
-### 1. Kirjuta kokkuvõte. Mitu toodet on? Millised kategooriad? Hinnavahemik? Puuduvad andmed?  
-KVALITEEDIKONTROLL:  
-☐ Vähemalt 3 SQL päringut töötavad ilma veata
-☐ Kategooriad ja hinnavahemik on tuvastatud
-☐ Kokkuvõte sisaldab konkreetseid numbreid (mitu toodet, min/max hind jne)
+### 1. KVALITEEDIKONTROLL: 
+
+- Vähemalt 3 SQL päringut töötavad ilma veata
+- Kategooriad ja hinnavahemik on tuvastatud
+- Kokkuvõte sisaldab konkreetseid numbreid (mitu toodet, min/max hind jne)
 
 
