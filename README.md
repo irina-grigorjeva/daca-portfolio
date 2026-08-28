@@ -112,16 +112,18 @@ timeline
     Nädal 7-10 : Tervikprojekt
                : Automatiseerimine
 
+
 ---
 
-## 🎯 Miks andmeanalüütika?
+### 🎯 Miks andmeanalüütika?
 "Andmed on uus õli — kuid väärtuslikud on alles siis, kui oskame neist õiged küsimused küsida."
 
 Mind köidab andmeanalüütikas võimalus muuta toorandmed selgeteks äriotsusteks. Mulle meeldib leida mustreid, esitada visualiseeringuid ja aidata ettevõtetel teha andmepõhiseid valikuid.
 
+
 ---
 
-## 📫 Kontakt
+### 📫 Kontakt
 GitHub: github.com/irina-grigorjeva
 
 Email: ira.grigorjeva@gmail.com
